@@ -1,0 +1,15 @@
+D:\viktor 11b\Business\bin\Debug\Business.dll.config
+D:\viktor 11b\Business\bin\Debug\Business.dll
+D:\viktor 11b\Business\bin\Debug\Business.pdb
+D:\viktor 11b\Business\bin\Debug\Data2.dll
+D:\viktor 11b\Business\bin\Debug\EntityFramework.dll
+D:\viktor 11b\Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\viktor 11b\Business\bin\Debug\Data2.pdb
+D:\viktor 11b\Business\bin\Debug\Data2.dll.config
+D:\viktor 11b\Business\bin\Debug\EntityFramework.xml
+D:\viktor 11b\Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\viktor 11b\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+D:\viktor 11b\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\viktor 11b\Business\obj\Debug\Business.csproj.CopyComplete
+D:\viktor 11b\Business\obj\Debug\Business.dll
+D:\viktor 11b\Business\obj\Debug\Business.pdb
