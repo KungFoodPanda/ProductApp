@@ -1,0 +1,12 @@
+D:\viktor 11b\Data2\bin\Debug\Data2.dll.config
+D:\viktor 11b\Data2\bin\Debug\Data2.dll
+D:\viktor 11b\Data2\bin\Debug\Data2.pdb
+D:\viktor 11b\Data2\bin\Debug\EntityFramework.dll
+D:\viktor 11b\Data2\bin\Debug\EntityFramework.SqlServer.dll
+D:\viktor 11b\Data2\bin\Debug\EntityFramework.xml
+D:\viktor 11b\Data2\bin\Debug\EntityFramework.SqlServer.xml
+D:\viktor 11b\Data2\obj\Debug\Data2.csproj.AssemblyReference.cache
+D:\viktor 11b\Data2\obj\Debug\Data2.csproj.CoreCompileInputs.cache
+D:\viktor 11b\Data2\obj\Debug\Data2.csproj.CopyComplete
+D:\viktor 11b\Data2\obj\Debug\Data2.dll
+D:\viktor 11b\Data2\obj\Debug\Data2.pdb
